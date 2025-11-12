@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://doctori.pages.dev/sitemap.xml
